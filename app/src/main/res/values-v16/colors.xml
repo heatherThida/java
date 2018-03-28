@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="testColor">#262626</color>
+    <color name="streetconnectOrange">#dd6721</color>
+    <color name="streetconnectSoftOrange">#EFAF7F</color>
+</resources>

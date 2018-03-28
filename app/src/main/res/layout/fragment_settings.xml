@@ -1,0 +1,22 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent" android:background="#e8e8e8"
+    android:layout_height="match_parent" tools:context="streetconnect.Settings">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Settings Page to Go Here"
+        android:id="@+id/settingsText"
+        android:layout_gravity="center_horizontal|top"
+        android:textSize="20sp"
+        android:textColor="#000000"/>
+
+    <Button
+        android:layout_width="244dp"
+        android:layout_height="wrap_content"
+        android:text="Register with StreetConnect"
+        android:id="@+id/registerButton"
+        android:layout_gravity="center" />
+</FrameLayout>

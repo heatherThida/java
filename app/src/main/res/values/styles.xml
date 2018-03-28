@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Base application theme for androids with API level <11 (shouldn't have to exist if min API level > 11?) -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Test" parent="Theme.AppCompat.Light">
+         <!-- Main theme colors -->
+         <!--   your app branding color for the app bar -->
+         <!--<item name="android:colorPrimary">#FF5722</item>-->
+         <!--   darker variant for the status bar and contextual app bars -->
+         <!--<item name="android:colorPrimaryDark">#E64A19</item>-->
+         <!--   theme UI controls like checkboxes and text fields -->
+        <!--<item name="android:colorAccent">#9E9E9E</item>-->
+        <!--<item name="android:textColor">#FFFFFF</item>-->
+        <!--<item name="android:textColorPrimary">#212121</item>-->
+        <!--<item name="android:textColorSecondary">#727272</item>-->
+
+
+        <!--light primary color: #FFCCBC
+            divider color: #B6B6B6-->
+    </style>
+</resources>
